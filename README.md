@@ -34,7 +34,7 @@ You can find the main logic for simulating environmental cues in the reading exp
 ## 📄 Full Report
 
 Read the full PDF report with methodology, analysis, and findings:  
-📄 [`docs/Embodied_Interaction_Report.pdf`](./An_Embodied_Interaction_Study the quad squad final.pdf)
+📄 [`docs/Embodied_Interaction_Report.pdf`](.docs/An_Embodied_Interaction_Study the quad squad final.pdf)
 
 ---
 
@@ -57,4 +57,4 @@ Read the full PDF report with methodology, analysis, and findings:
 
 Here’s the poster I presented during the course showcase session:
 
-![Poster Preview](./assets/poster.jpg)
+![Poster Preview](./assets/Poster Embodied Interaction.jpg)
