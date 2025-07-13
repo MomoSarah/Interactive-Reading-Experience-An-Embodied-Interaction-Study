@@ -53,11 +53,8 @@ Read the full PDF report with methodology, analysis, and findings:
 - Use sensors to personalize lighting/music based on real-time biometrics
 - Expand to educational and therapeutic reading contexts
 
----
+## 🧾 Project Poster
 
-## 📬 Contact
+Here’s the poster I presented during the course showcase session:
 
-**[Your Name]**  
-Course Project | University of Bremen  
-[Your Email]  
-[LinkedIn or GitHub profile]
+![Poster Preview](./assets/poster.jpg)
