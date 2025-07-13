@@ -27,14 +27,14 @@ As a team member on this course project, I contributed to:
 ## 🧪 Code
 
 You can find the main logic for simulating environmental cues in the reading experience here:  
-📂 [`src/interactive_reading.py`](./Exploring the Impact of environmental cues like Light and Music on Reading Experience An Embodied Interaction Study.py)
+📂 [`src/interactive_reading.py`](./Embodied_Interaction.py)
 
 ---
 
 ## 📄 Full Report
 
 Read the full PDF report with methodology, analysis, and findings:  
-📄 [`docs/Embodied_Interaction_Report.pdf`](./An_Embodied_Interaction_Study the quad squad final.pdf)
+📄 [`docs/Embodied_Interaction_Report.pdf`](./An_Embodied_Interaction_Study.pdf)
 
 ---
 
@@ -57,4 +57,4 @@ Read the full PDF report with methodology, analysis, and findings:
 
 Here’s the poster I presented during the course showcase session:
 
-![Poster Preview](./Poster Embodied Interaction.jpg)
+![Poster Preview](./Poster_Embodied_Interaction.jpg)
